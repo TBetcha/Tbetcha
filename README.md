@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Tbetcha's GitHub stats-Dark](readme-states-mqrioyhr0-tbetcha.vercel.app/api?username=Tbetcha&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Tbetcha/github-readme-stats#gh-dark-mode-only)
+[![Tbetcha's GitHub stats-Dark]([readme-states-mqrioyhr0-tbetcha.vercel.app](https://tbetcha-github-readme-stats.vercel.app/)/api?username=Tbetcha&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Tbetcha/github-readme-stats#gh-dark-mode-only)
 
 <!--[![Tbetcha's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Tbetcha&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Tbetcha/github-readme-stats#gh-dark-mode-only) --!>
 <!--
