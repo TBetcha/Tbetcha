@@ -1,4 +1,4 @@
-<p> I'm a functional programming enthusiast and coffee snob.</p>
+<p> I prefer functional code and navigating text with h/j/k/l </p>
 
 ![Tbetcha's GitHub stats-Dark](https://tmb-github-readme-stats.vercel.app/api?username=tbetcha&show_icons=true&theme=tokyonight#gh-dark-mode-only)
 
