@@ -1,8 +1,8 @@
 <div id="header" align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnJkdmQ4cmlzeHUyNDFvdTJyZ3d0NGtmdzkyejNzMmJnMjhndHVqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDUwbWR1cHZ4MHl0Nzc2ZGZqcXV5cXpiNDZhZjE1dGhpbDA2dDl1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ESnYXWTx8UGNIKqke0/giphy.gif" width="100/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/troy-boettger-89467185/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -17,7 +17,7 @@
 </h1>
 
 ---
-<p align="center"> I'm Troy, a full-stack Software Engineer.</p>
+<p align="center"><b> I'm Troy, a full-stack Software Engineer.</b></p>
 
 <p> I prefer functional code and navigating text with h/j/k/l. I spend a lot of time in .NET Core, but I'm an Apple fanboy </p>
 <p>
@@ -25,7 +25,7 @@
 </p>
 ---
 <div>
-<p> Technologies I use:
+<h3> Technologies I use: <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" title="Neovim" alt="Neovim" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/fsharp/fsharp-original.svg "title="F#" alt="F#" width="40" height="40"/>&nbsp;
@@ -37,16 +37,16 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgres" alt="Postgres" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-</p>
+</h3>
 </div>
 
-<div>
-<p>Technologies I'm learning
+<h3>
+<p>Technologies I'm learning: <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original-wordmark.svg" title="Svelte" alt="Svelte" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="Haskell" alt="Haskll" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
-</p>
+</h3>
 </div>
 
 ---
