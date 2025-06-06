@@ -23,9 +23,11 @@
 <p>
   I like learning new programming languages and exploring different architectural concepts. I'm currently spending time further developing my frontend skills.
 </p>
+
 ---
+
 <div>
-<h3> Technologies I use: <br>
+<h3> Technologies I use: <br><br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" title="Neovim" alt="Neovim" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/fsharp/fsharp-original.svg "title="F#" alt="F#" width="40" height="40"/>&nbsp;
@@ -41,7 +43,7 @@
 </div>
 
 <h3>
-<p>Technologies I'm learning: <br>
+<p>Technologies I'm learning: <br><br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original-wordmark.svg" title="Svelte" alt="Svelte" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="Haskell" alt="Haskll" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
@@ -52,12 +54,14 @@
 ---
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tbetcha&theme=tokyonight)](https://git.io/streak-stats)
 
+<p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tbetcha&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 
 ![Tbetcha's GitHub stats-Dark](https://tmb-github-readme-stats.vercel.app/api?username=tbetcha&show_icons=true&hide_rank=true&theme=tokyonight#gh-dark-mode-only)
+</p>
 
 <!--[![Tbetcha's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Tbetcha&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Tbetcha/github-readme-stats#gh-dark-mode-only) --!>
 <!--
